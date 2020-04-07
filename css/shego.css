@@ -1,0 +1,78 @@
+body{
+	margin: 0;
+	font-family: 'Do Hyeon', sans-serif;
+	background-color: #B5FFB5;
+	font-size: 30px;
+	line-height: 40px;
+
+}
+
+header{
+	background-color: #0BBD0B;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+header h1{
+	color: white;
+	font-size: 80px;
+
+}
+
+h1, h2{
+	font-family: 'Shrikhand', cursive;
+
+}
+
+h1{
+	text-shadow: -7px 5px black;
+}
+
+h2{
+	text-shadow: -7px 5px white;
+}
+
+header img{
+	border-radius: 165px;
+	border: 15px solid black;
+}
+
+main{
+	max-width: 800px;
+	text-align: left;
+	padding-left: 300px;
+	padding-top: 40px;
+}
+
+h2{
+	font-size: 45px;
+	color: #158515;
+}
+
+
+
+main img{
+	max-width: 100%;
+	border: 7px solid white;
+}
+
+a{
+	color: #158515;
+}
+
+a:hover{
+	color: #483a94;
+}
+
+footer{
+	text-align: center;
+	padding-top: 50px;
+}
+
+
+
+
+
